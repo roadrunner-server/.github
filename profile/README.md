@@ -3,7 +3,7 @@
 🙋‍ RoadRunner is high-performance PHP application server, load-balancer, process manager written in Go and powered with plugins.   
 
 👩‍💻 Useful resources:
-1. 🧙 [Goridge](https://github.com/roadrunner-server/goridge): High-performance PHP-to-Golang IPC bridge
+1. 🧙 [Goridge](https://github.com/roadrunner-server/goridge): High-performance PHP-to-Golang IPC/RPC bridge
 2. ⚡ [Endure](https://github.com/roadrunner-server/endure): RoadRunner core: fault-tolerant plugins container for Go applications.
 3. 🤖 [sdk](https://github.com/roadrunner-server/sdk): RoadRunner Go SDK. Contains `worker`, `pool`, `queues` and other utilities and core RR features.
 4. 🔌 [API](https://github.com/roadrunner-server/api): RoadRunner API, powered with `protobuf`. Contains plugins interfaces and proto api.
