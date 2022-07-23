@@ -4,6 +4,8 @@
 
 🙋‍ **RoadRunner is high-performance PHP application server and process manager written in Go and powered with plugins**   
 
+# 💬 Join our discord server: [Link](https://discord.gg/TFeEmCs) 
+
 👩‍💻 Useful resources:
 1. 🧙 [Goridge](https://github.com/roadrunner-server/goridge): High-performance PHP-to-Golang IPC/RPC bridge
 2. ⚡ [Endure](https://github.com/roadrunner-server/endure): RoadRunner core: fault-tolerant plugins container for Go applications.
