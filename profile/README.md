@@ -12,3 +12,4 @@
 3. 🤖 [sdk](https://github.com/roadrunner-server/sdk): RoadRunner Go SDK. Contains `worker`, `pool`, `queues` and other utilities and core RR features.
 4. 🔌 [API](https://github.com/roadrunner-server/api): RoadRunner API, powered with `protobuf`. Contains plugins interfaces and proto api.
 5. 🧱 [velox](https://github.com/roadrunner-server/velox): Tool to build the RR with your custom (and might be private) plugins.
+6. 📖 [docs](https://github.com/spiral/roadrunner-docs/tree/2.x): RoadRunner documentation repository with auto-sync to the [website](roadrunner.dev).
