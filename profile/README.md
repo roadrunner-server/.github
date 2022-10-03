@@ -16,5 +16,5 @@
 
 ---
 
-🔥 **[Spiral Framework](https://spiral.dev/)**: Spiral Framework is a modern PHP framework designed to power faster, cleaner, superior software development.  
-🛟 **[CycleORM](https://cycle-orm.dev/)**: PHP DataMapper ORM & Data Modelling engine.
+1. 🔥 **[Spiral Framework](https://spiral.dev/)**: Spiral Framework is a modern PHP framework designed to power faster, cleaner, superior software development.
+2. 🚀 **[CycleORM](https://cycle-orm.dev/)**: PHP DataMapper ORM & Data Modelling engine.
