@@ -13,3 +13,8 @@
 4. 🔌 [API](https://github.com/roadrunner-server/api): RoadRunner API, powered with `protobuf` and [buf](https://buf.build/). Contains plugins interfaces and proto api.
 5. 🧱 [velox](https://github.com/roadrunner-server/velox): Tool to build the RR with your custom (and might be private) plugins.
 6. 📖 [docs](https://github.com/spiral/roadrunner-docs/tree/2.x): RoadRunner documentation repository with auto-sync to the [website](https://roadrunner.dev).
+
+---
+
+🔥 **[Spiral Framework](https://spiral.dev/)**: Spiral Framework is a modern PHP framework designed to power faster, cleaner, superior software development.  
+🛟 **[CycleORM](https://cycle-orm.dev/)**: PHP DataMapper ORM & Data Modelling engine.
