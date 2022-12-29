@@ -1,7 +1,5 @@
 <a href="https://roadrunner.dev" target="_blank">
-  <picture>
-    <img align="center" src="https://user-images.githubusercontent.com/8040338/209966958-96d20940-a65f-4be8-a748-c623b091b2c8.png">
-  </picture>
+<img src="https://user-images.githubusercontent.com/8040338/209966958-96d20940-a65f-4be8-a748-c623b091b2c8.png">
 </a>
 
 <br><br/>
