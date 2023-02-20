@@ -11,6 +11,13 @@
 
 # 💬 Join our discord server: [Link](https://discord.gg/TFeEmCs) 
 
+<p align="center">
+	<a href="https://roadrunner.dev/"><b>Official Website</b></a> |
+	<a href="https://roadrunner.dev/docs"><b>Documentation</b></a> |
+    <a href="https://forum.roadrunner.dev"><b>Forum</b></a> |
+    <a href="https://github.com/orgs/roadrunner-server/projects/1"><b>Release schedule</b></a>
+</p>
+
 👩‍💻 Useful resources:
 1. 🧙 [Goridge](https://github.com/roadrunner-server/goridge): High-performance PHP-to-Golang IPC/RPC bridge
 2. ⚡ [Endure](https://github.com/roadrunner-server/endure): RoadRunner core: fault-tolerant plugins container for Go applications.
