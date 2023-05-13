@@ -9,7 +9,7 @@
 
 🙋‍ **RoadRunner is high-performance PHP application server and process manager written in Go and powered with plugins**   
 
-# 💬 Join our discord server: [Link](https://discord.gg/TFeEmCs) 
+# 💬 Join our discord server: [Link](https://discord.gg/spiralphp) 
 
 <p align="center">
 	<a href="https://roadrunner.dev/"><b>Official Website</b></a> |
