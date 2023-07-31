@@ -11,12 +11,14 @@
 
 # 💬 Join our discord server: [Link](https://discord.gg/spiralphp) 
 # 🐘 PHP SDK: [link](https://github.com/roadrunner-php)
+#### 📝 **All issues should be created in the main [RoadRunner](https://github.com/roadrunner-server/roadrunner) repository, thank you ❤️**
+
+---
 
 <p align="center">
 	<a href="https://roadrunner.dev/"><b>Official Website</b></a> |
 	<a href="https://roadrunner.dev/docs"><b>Documentation</b></a> |
-    <a href="https://forum.roadrunner.dev"><b>RoadRunner Forum</b></a> |
-    <a href="https://github.com/orgs/roadrunner-server/projects/1"><b>Release Schedule</b></a>
+    <a href="https://forum.roadrunner.dev"><b>RoadRunner Forum</b></a>
 </p>
 
 👩‍💻 Useful resources:
