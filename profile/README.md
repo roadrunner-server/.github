@@ -25,7 +25,7 @@
 1. 🧙 [Goridge](https://github.com/roadrunner-server/goridge): High-performance PHP-to-Golang IPC/RPC bridge
 2. ⚡ [Endure](https://github.com/roadrunner-server/endure): RoadRunner core: fault-tolerant plugins container for Go applications.
 3. 🤖 [sdk](https://github.com/roadrunner-server/sdk): RoadRunner Go SDK. Contains `worker`, `pool`, `queues`, and other benefits and core RR features.
-4. 🔌 [API](https://github.com/roadrunner-server/api): RoadRunner API, powered with `protobuf` and [buf](https://buf.build/). Contains `proto` API.
+4. 🔌 [API](https://github.com/roadrunner-server/api): RoadRunner API, powered with `protobuf`. Contains `proto` API and some Golang interfaces.
 5. 🧱 [velox](https://github.com/roadrunner-server/velox): Tool to use RoadRunner within your custom plugin (even if it might be private).
 6. 📖 [docs](https://github.com/roadrunner-server/roadrunner-docs): RoadRunner documentation repository with auto-sync to the [website](https://roadrunner.dev).
 
