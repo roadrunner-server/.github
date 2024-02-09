@@ -18,8 +18,8 @@
 
 <p align="center">
 	<a href="https://roadrunner.dev/"><b>Official Website</b></a> |
-	<a href="https://roadrunner.dev/docs"><b>Documentation</b></a> |
-    <a href="https://forum.roadrunner.dev"><b>Forum</b></a>
+	<a href="https://docs.roadrunner.dev"><b>Documentation</b></a> |
+    <a href="https://github.com/orgs/roadrunner-server/discussions"><b>Forum</b></a>
 </p>
 
 👩‍💻 Useful resources:
